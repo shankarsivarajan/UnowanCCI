@@ -1,7 +1,7 @@
 # Unowan CCI
 The script of the ancient Unowan inscriptions, inspired by the unown.
 
-Includes Greek and Cyrillic glyphs, based on designs by [Rachel C. (kaylathehedgehog)](https://deviantart.com/kaylathehedgehog).
+Includes Greek and Cyrillic regional variants, based on designs by [Rachel C. (kaylathehedgehog)](https://deviantart.com/kaylathehedgehog).
 
 ![unowan_cci_title](documentation/unowan_cci_title.png)
 
