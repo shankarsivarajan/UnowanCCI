@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1687110331
-ModificationTime: 1741887930
+ModificationTime: 1742179496
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1574,75 +1574,62 @@ EndChar
 
 StartChar: W
 Encoding: 87 87 24
-Width: 12
+Width: 10
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-7 6 m 1
- 7 5 l 1
+6 6 m 1
  6 5 l 1
- 4 5 l 1
- 4 6 l 1
- 5 6 l 1
- 5 8 l 1
- 6 8 l 1
- 6 6 l 1
- 7 6 l 1
-3 4 m 1
+ 5 5 l 1
  3 5 l 1
- 4 5 l 1
- 4 2 l 1
- 3 2 l 1
- 3 3 l 1
- 2 3 l 1
- 2 4 l 1
- 3 4 l 1
-8 4 m 1
- 9 4 l 1
- 9 3 l 1
- 8 3 l 1
- 8 2 l 1
- 7 2 l 1
- 7 5 l 1
- 8 5 l 1
- 8 4 l 1
-4 1 m 1
- 4 2 l 1
- 6 2 l 1
- 7 2 l 1
- 7 1 l 1
- 6 1 l 1
- 4 1 l 1
-1 7 m 1
- 1 5 l 1
- 0 5 l 1
- 0 7 l 1
- 1 7 l 1
-11 5 m 1
- 10 5 l 1
- 10 6 l 1
- 10 7 l 1
- 11 7 l 1
- 11 6 l 1
- 11 5 l 1
+ 3 6 l 1
+ 4 6 l 1
+ 4 8 l 1
+ 5 8 l 1
+ 5 6 l 1
+ 6 6 l 1
 2 4 m 1
  1 4 l 1
  1 5 l 1
- 2 5 l 1
+ 3 5 l 1
+ 3 2 l 1
+ 2 2 l 1
  2 4 l 1
-6 3 m 1
- 5 3 l 1
- 5 4 l 1
- 6 4 l 1
- 6 3 l 1
-10 4 m 1
- 9 4 l 1
+6 5 m 1
+ 8 5 l 1
+ 8 4 l 1
+ 7 4 l 1
+ 7 2 l 1
+ 6 2 l 1
+ 6 5 l 1
+3 1 m 1
+ 3 2 l 1
+ 5 2 l 1
+ 6 2 l 1
+ 6 1 l 1
+ 5 1 l 1
+ 3 1 l 1
+0 6 m 1
+ 0 7 l 1
+ 1 7 l 1
+ 1 6 l 1
+ 1 5 l 1
+ 0 5 l 1
+ 0 6 l 1
+9 6 m 1
  9 5 l 1
- 10 5 l 1
- 10 4 l 1
+ 8 5 l 1
+ 8 6 l 1
+ 8 7 l 1
+ 9 7 l 1
+ 9 6 l 1
+5 3 m 1
+ 4 3 l 1
+ 4 4 l 1
+ 5 4 l 1
+ 5 3 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: X
@@ -5342,75 +5329,62 @@ EndChar
 
 StartChar: w
 Encoding: 119 119 105
-Width: 12
+Width: 10
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-7 6 m 1
- 7 5 l 1
+6 6 m 1
  6 5 l 1
- 4 5 l 1
- 4 6 l 1
- 5 6 l 1
- 5 8 l 1
- 6 8 l 1
- 6 6 l 1
- 7 6 l 1
-3 4 m 1
+ 5 5 l 1
  3 5 l 1
- 4 5 l 1
- 4 2 l 1
- 3 2 l 1
- 3 3 l 1
- 2 3 l 1
- 2 4 l 1
- 3 4 l 1
-8 4 m 1
- 9 4 l 1
- 9 3 l 1
- 8 3 l 1
- 8 2 l 1
- 7 2 l 1
- 7 5 l 1
- 8 5 l 1
- 8 4 l 1
-4 1 m 1
- 4 2 l 1
- 6 2 l 1
- 7 2 l 1
- 7 1 l 1
- 6 1 l 1
- 4 1 l 1
-1 7 m 1
- 1 5 l 1
- 0 5 l 1
- 0 7 l 1
- 1 7 l 1
-11 5 m 1
- 10 5 l 1
- 10 6 l 1
- 10 7 l 1
- 11 7 l 1
- 11 6 l 1
- 11 5 l 1
+ 3 6 l 1
+ 4 6 l 1
+ 4 8 l 1
+ 5 8 l 1
+ 5 6 l 1
+ 6 6 l 1
 2 4 m 1
  1 4 l 1
  1 5 l 1
- 2 5 l 1
+ 3 5 l 1
+ 3 2 l 1
+ 2 2 l 1
  2 4 l 1
-6 3 m 1
- 5 3 l 1
- 5 4 l 1
- 6 4 l 1
- 6 3 l 1
-10 4 m 1
- 9 4 l 1
+6 5 m 1
+ 8 5 l 1
+ 8 4 l 1
+ 7 4 l 1
+ 7 2 l 1
+ 6 2 l 1
+ 6 5 l 1
+3 1 m 1
+ 3 2 l 1
+ 5 2 l 1
+ 6 2 l 1
+ 6 1 l 1
+ 5 1 l 1
+ 3 1 l 1
+0 6 m 1
+ 0 7 l 1
+ 1 7 l 1
+ 1 6 l 1
+ 1 5 l 1
+ 0 5 l 1
+ 0 6 l 1
+9 6 m 1
  9 5 l 1
- 10 5 l 1
- 10 4 l 1
+ 8 5 l 1
+ 8 6 l 1
+ 8 7 l 1
+ 9 7 l 1
+ 9 6 l 1
+5 3 m 1
+ 4 3 l 1
+ 4 4 l 1
+ 5 4 l 1
+ 5 3 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: x
